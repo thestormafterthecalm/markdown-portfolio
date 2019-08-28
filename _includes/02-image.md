@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Eastern Orthodox monastary high on a single standing rock structure](http://www.pravoslavie.ru/sas/image/102403/240385.p.jpg?mtime=1467018817)
