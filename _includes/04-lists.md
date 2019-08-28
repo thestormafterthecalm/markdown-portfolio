@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. Favorite Foods
+   * Sausage & Cheese
+   * Nachos
+   * Pastry
+2. Favorite Interests
+   * Reading
+   * Programming
+   * Woodworking
+    
